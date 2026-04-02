@@ -4,6 +4,12 @@ It includes product browsing and contact features for customers.
 
 (Note: This is a development build. UI screenshots are provided below.)
 
+
+## 🤖 AI Scope
+This project can be extended with AI features like:
+- Smart product recommendations
+- Chat-based inquiry assistant (Claude/OpenAI)
+
 <img width="1187" height="853" alt="image" src="https://github.com/user-attachments/assets/18077b7d-3c0d-40a5-83c8-37382a32a147" />
 
 
